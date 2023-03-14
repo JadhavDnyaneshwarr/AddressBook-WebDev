@@ -1,7 +1,7 @@
 var citiesByState = {
-    Gujarat: ["Choose City","Ahmedabad", "Jamnagar", "Rajkot", "Vadodara"],
-    Maharashtra: ["Choose City", "Mumbai", "Pune", "Nagpur", "Nashik"],
-    Rajasthan: ["Choose City","Jaipur", "Udaipur", "Bikaner", "Kota"],
+    Gujarat: ["Choose City","Ahmedabad", "Jamnagar", "Rajkot", "Vadodara",],
+    Maharashtra: ["Choose City", "Mumbai", "Pune", "Nagpur", "Nashik", "Ahamadnagar"],
+    Rajasthan: ["Choose City","Jaipur", "Udaipur", "Bikaner", "Kota","jaisalmer"],
     Karnataka: ["Choose City","Banglore", "Hubli", "Mysore"]
 }
 function makeCitySubmenu(value) {
