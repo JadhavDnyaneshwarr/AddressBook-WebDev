@@ -1,8 +1,8 @@
 var citiesByState = {
     Gujarat: ["Choose City","Ahmedabad", "Jamnagar", "Rajkot", "Vadodara",],
     Maharashtra: ["Choose City", "Mumbai", "Pune", "Nagpur", "Nashik", "Ahamadnagar"],
-    Rajasthan: ["Choose City","Jaipur", "Udaipur", "Bikaner", "Kota","jaisalmer"],
-    Karnataka: ["Choose City","Banglore", "Hubli", "Mysore"]
+    Karnataka: ["Choose City","Banglore", "Hubli", "Mysore", "Hampi","Shivamogga"],
+    Kerla: ["Choose City","Thiruvananthapuram", "Kochi", "Kollam", "Kozhikode","Kannur"]
 }
 function makeCitySubmenu(value) {
     if (value.length == 0) document.getElementById("city").innerHTML = "<option></option>";

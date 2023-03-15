@@ -40,12 +40,12 @@ const createInnerHtml = () => {
 const createContactsJson = () => {
     let contactListLocal = [
         {
-            _name: 'Jhanvi Kankhara',
-            _address: 'Vinayak Residency, B/h Sunshine School, Valakeshwari Nagari',
-            _city: 'Jamnagar',
-            _state: 'Gujarat',
-            _zip: '369369',
-            _phone: '7878709090'
+            _name: 'Dnyaneshwar Santosh Jadhav',
+            _address: 'Sanket Vihar , Hadapsar',
+            _city: 'Pune',
+            _state: 'Maharastra',
+            _zip: '412308',
+            _phone: '8806474798'
         }
     ];
     return contactListLocal;
